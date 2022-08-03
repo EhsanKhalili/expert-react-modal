@@ -21,3 +21,4 @@ export const display = (renderModal, container) => {
     };
     root.render(renderModal(onClose));
 };
+//# sourceMappingURL=display.js.map

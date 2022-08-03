@@ -25,3 +25,4 @@ const display = (renderModal, container) => {
     root.render(renderModal(onClose));
 };
 exports.display = display;
+//# sourceMappingURL=display.js.map
